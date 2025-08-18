@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Sanath Ramesh</title>
+    <description>My personal blog powered by Hugo &#43; Maverick</description>
+    <link>http://localhost:1313/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2025, Calvin Tran</copyright>
+    <lastBuildDate>Tue, 19 Aug 2025 00:39:20 +0530</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <description></description>
+      <author></author>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <pubDate>Tue, 19 Aug 2025 00:39:20 +0530</pubDate>
+    </item>
+    
+  </channel>
+</rss>
