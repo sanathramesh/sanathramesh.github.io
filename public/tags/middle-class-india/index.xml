@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sanath Ramesh</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Sanath Ramesh</description>
+    <title>Middle Class India on Sanath Ramesh</title>
+    <link>http://localhost:1313/tags/middle-class-india/</link>
+    <description>Recent content in Middle Class India on Sanath Ramesh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Aug 2025 20:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/middle-class-india/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>India’s Income Pyramid: What the Data Says</title>
       <link>http://localhost:1313/posts/second/</link>

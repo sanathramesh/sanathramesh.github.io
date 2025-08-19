@@ -7,19 +7,137 @@
     
     <language>en</language>
     <copyright>Copyright 2025, Calvin Tran</copyright>
-    <lastBuildDate>Tue, 19 Aug 2025 00:39:20 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 20:00:00 +0530</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
     
     
     <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <description></description>
+      <title>India’s Income Pyramid: What the Data Says</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Alright&lt;/strong&gt;, let’s start with a question: have you ever really stopped to think about where &lt;strong&gt;you&lt;/strong&gt; fit in India’s huge income pyramid? Like, are you chilling at the bottom, grinding in the middle, or balling at the top (or dreaming about it)? Most of us don’t think of it until rent or bills start piling up, right?&lt;/p&gt;
+&lt;p&gt;Well, India isn’t just one country when it comes to income. It’s like a giant pyramid stacked with different groups—some barely scraping by, others living dreams most can only imagine. This post is to chat about those groups, how big they are, where they live, what they do, and most importantly: how you can climb.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-big-picture-pyramid-style&#34;&gt;🏠 The Big Picture (Pyramid Style)&lt;/h2&gt;
+&lt;p&gt;Picture a huge triangle. At the bottom, you’ve got the &lt;strong&gt;majority&lt;/strong&gt; of Indians earning less than ₹2 lakh a year—yep, that’s almost 9 out of 10 adults. That’s a massive crowd struggling to meet day-to-day expenses. Then, moving up, smaller and smaller groups earn more money, until you reach the tiniest tip—the ultra-rich, who make over ₹25 crore a year.&lt;/p&gt;
+&lt;p&gt;Think of it like this: The top 10% are making over half of all the income in the country. Meanwhile, the bottom half? They collectively earn only 13%. Wild, huh?&lt;/p&gt;
+&lt;p&gt;Here is an infographic on the income inequality&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;http://localhost:1313/images/india_income_pyramid_horizontal.png&#34;
+  alt=&#34;India Income Pyramid chart with percentages – personal finance blog&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+
+&lt;em&gt;Disclaimer: Population adds up to 101 percentage due to approximations&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You can explore more on this in detail on the &lt;a href=&#34;https://wid.world/country/india/&#34;&gt;World Inequality Database&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-life-at-different-levels-real-talk&#34;&gt;🎭 Life at Different Levels (Real Talk)&lt;/h2&gt;
+&lt;p&gt;Let’s walk through some “tribes” living on each pyramid layer.&lt;/p&gt;
+&lt;h3 id=&#34;the-base-hustlers-less-than-2-lakhyear&#34;&gt;The Base Hustlers (Less than ₹2 lakh/year)&lt;/h3&gt;
+&lt;p&gt;These folks are the backbone—daily wage earners, gig workers, small farmers, helpers in shops. Life is tight. Most can’t save much, and a hospital bill or a rainy season can turn life upside down. Many live in smaller towns or rural areas, working informal jobs with no contracts or benefits. It’s survival mode, EVERY SINGLE DAY.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://mospi.gov.in/plfs&#34;&gt;Periodic Labour Force Survey 2022 report by MoSPI&lt;/a&gt; &lt;strong&gt;median Indian worker earns around ₹8,100 per month or less&lt;/strong&gt;, meaning half the workforce is in this income bracket. This is based on direct estimates from PLFS (mean ≈ ₹11,350/month; median ≈ ₹8,112/month).&lt;/p&gt;
+&lt;h3 id=&#34;the-getting-by-crew-25-lakhyear&#34;&gt;The “Getting By” Crew (₹2–5 lakh/year)&lt;/h3&gt;
+&lt;p&gt;Up a step, you find the fresh grads, BPO workers, junior IT staff, and retail employees. They get by with tight budgets—renting rooms, paying EMIs on bikes, squeezing expenses to afford a little joy now and then, like a quick Zomato meal or birthday outing. Savings? Mostly a dream, but hopes are high.&lt;/p&gt;
+&lt;h3 id=&#34;the-middle-mile-dreamers-515-lakhyear&#34;&gt;The Middle-Mile Dreamers (₹5–15 lakh/year)&lt;/h3&gt;
+&lt;p&gt;Here’s the “toddler” of India’s middle class—people with steady jobs in IT, finance, doctors starting their careers, and small business owners. They dream bigger: owning a car, taking one vacation a year, investing a bit. It&amp;rsquo;s the space where aspirations meet reality. Though still a small slice of the population, they’re the ones most Indians want to join.&lt;/p&gt;
+&lt;p&gt;Around 34 million Indians fall under this bracket, which is just about 2.5% of the population, according to &lt;a href=&#34;https://economictimes.indiatimes.com/news/economy/indicators/how-the-middle-class-will-play-the-hero-in-indias-rise-as-world-power/articleshow/101608682.cms&#34;&gt;Economic Times analysis&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;the-climbing-crowd-1550-lakhyear&#34;&gt;The Climbing Crowd (₹15–50 lakh/year)&lt;/h3&gt;
+&lt;p&gt;This group includes senior professionals, corporate managers, successful doctors, and entrepreneurs. They invest seriously—mutual funds, property—you name it. They have a comfortable urban lifestyle, often in metros, sending kids to good schools, and enjoying a decent social life.&lt;/p&gt;
+&lt;p&gt;The Reserve Bank of India’s &lt;a href=&#34;https://rbi.org.in/Scripts/PublicationsView.aspx?id=xxxx&#34;&gt;Household Finance and Consumption Survey 2023&lt;/a&gt; notes that the top 5% of urban earners save more than 30% of their income, compared to less than 10% for lower-income groups.&lt;/p&gt;
+&lt;h3 id=&#34;the-elite-50-lakh-per-year&#34;&gt;The Elite (₹50 lakh+ per year)&lt;/h3&gt;
+&lt;p&gt;This group includes roughly the top 0.5% of earners, mainly senior professionals working in top companies, successful entrepreneurs, and high-ranking executives. While they often enjoy a comfortable lifestyle with better housing and travel options, luxury cars and extravagant spending are less common and usually reserved for those earning significantly more within this segment. They have strong economic influence but may not yet belong to the ultra-wealthy social circles.&lt;/p&gt;
+&lt;p&gt;Despite this, individuals in this segment are well-positioned to afford a very good quality of life—comfortably supporting their families, taking occasional vacations both in India and abroad, enjoying nice dining experiences, and indulging in some luxuries like branded clothing or gadgets. With smart financial planning and continued growth, they have excellent opportunities to elevate their lifestyle even further.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;summary-table&#34;&gt;&lt;strong&gt;Summary Table&lt;/strong&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Segment (INR/year)&lt;/th&gt;
+          &lt;th&gt;Who Constitutes It&lt;/th&gt;
+          &lt;th&gt;% Adult Population&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;lt; 2 lakh&lt;/td&gt;
+          &lt;td&gt;Rural/urban poor, informal workers, small farmers&lt;/td&gt;
+          &lt;td&gt;~80-87%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2–5 lakh&lt;/td&gt;
+          &lt;td&gt;Lower-middle urban, skilled labor&lt;/td&gt;
+          &lt;td&gt;~7-10%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5–15 lakh&lt;/td&gt;
+          &lt;td&gt;Mid-level professionals, aspiring middle class&lt;/td&gt;
+          &lt;td&gt;~2-3%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15–30 lakh&lt;/td&gt;
+          &lt;td&gt;Senior managers, entrepreneurs, tech professionals&lt;/td&gt;
+          &lt;td&gt;~1%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30 lakh–2 crore&lt;/td&gt;
+          &lt;td&gt;Top professionals, business owners&lt;/td&gt;
+          &lt;td&gt;~0.3-0.5%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2 crore–10 crore&lt;/td&gt;
+          &lt;td&gt;High net worth individuals, established entrepreneurs&lt;/td&gt;
+          &lt;td&gt;~0.1-0.2%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10 crore–25 crore&lt;/td&gt;
+          &lt;td&gt;Ultra high net worth individuals&lt;/td&gt;
+          &lt;td&gt;~0.03-0.05%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;gt; 25 crore&lt;/td&gt;
+          &lt;td&gt;UHNWIs, Forbes-listed billionaires&lt;/td&gt;
+          &lt;td&gt;~0.01%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;Disclaimer: I’m skipping the top categories. Why? Because I genuinely have no clue what they do up there — and maybe that’s the point. It’s another universe altogether. 🚀&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-moves-the-needle&#34;&gt;🔑 What Moves The Needle?&lt;/h2&gt;
+&lt;p&gt;Now, if you’re here wondering “how do I move up?”, here are some key facts:&lt;/p&gt;
+&lt;h3 id=&#34;education-is-a-game-changer-the-graduate-premium&#34;&gt;Education Is a Game Changer: The Graduate Premium&lt;/h3&gt;
+&lt;p&gt;If you think a college degree is just for the diploma, think again. Education is a powerful income multiplier in India.&lt;/p&gt;
+&lt;p&gt;According to a 2023 report by CMIE (&lt;a href=&#34;https://unemploymentinindia.cmie.com/&#34;&gt;Centre for Monitoring Indian Economy&lt;/a&gt;), graduates earn on average &lt;strong&gt;2.2 times more&lt;/strong&gt; than those without formal education. If you hold a postgraduate degree, your earnings could be about &lt;strong&gt;3 times higher&lt;/strong&gt; than non-graduates.&lt;/p&gt;
+&lt;p&gt;To put numbers to it, a non-graduate might earn around ₹1 lakh per year on average, whereas a graduate could make ₹2.2 lakh or more. A post-graduate can crank that up to ₹3 lakh plus annually. That’s why investing in higher education is often the surest route up the income pyramid.&lt;/p&gt;
+&lt;h3 id=&#34;formal-jobs-rock&#34;&gt;Formal Jobs Rock&lt;/h3&gt;
+&lt;p&gt;India’s labor market is about 80% informal. Those moving to formal sector jobs—think companies with PF, contracts, and benefits—earn a lot more.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.epfindia.gov.in/&#34;&gt;EPFO’s 2024 payroll data&lt;/a&gt; shows that average wages in formal jobs are around 60-70% higher than comparable informal sector workers. Plus, formal jobs bring social security and steady income growth.&lt;/p&gt;
+&lt;h3 id=&#34;the-fragility-factor&#34;&gt;The Fragility Factor&lt;/h3&gt;
+&lt;p&gt;Most Indian middle-class families don’t have health insurance. The &lt;a href=&#34;https://mospi.gov.in&#34;&gt;NSSO survey&lt;/a&gt; found a staggering 86% of Indian households have no health cover. So, a hospital bill of ₹50,000 can wipe out a year’s savings for many earning ₹5 lakh annually.&lt;/p&gt;
+&lt;h3 id=&#34;location-location-location&#34;&gt;Location, Location, Location&lt;/h3&gt;
+&lt;p&gt;A ₹10 lakh salary in Mumbai might feel tight after paying hefty rent, but in smaller cities like Lucknow or Jaipur, you can live comfortably. Knight Frank’s &lt;a href=&#34;https://www.knightfrank.com/research&#34;&gt;2023 report on Indian real estate&lt;/a&gt; shows Mumbai rents at ₹55/sqft per month, versus just ₹15/sqft in smaller cities.&lt;/p&gt;
+&lt;h3 id=&#34;stark-inequality&#34;&gt;Stark Inequality&lt;/h3&gt;
+&lt;p&gt;India’s wealth gap is real. Oxfam India’s &lt;a href=&#34;https://www.oxfamindia.org/press-release/survival-of-the-richest&#34;&gt;2023 wealth inequality report&lt;/a&gt; says the top 1% hold more than 40% of total wealth. Between 2012 and 2021, billionaires’ wealth grew by 121%, while the bottom 50% saw fewer gains.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-fun-factnot-so-fun&#34;&gt;⚡ Fun Fact(Not so fun)&lt;/h2&gt;
+&lt;p&gt;India creates a new dollar millionaire &lt;strong&gt;every 30 minutes&lt;/strong&gt; (&lt;a href=&#34;https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html&#34;&gt;Credit Suisse Global Wealth Report 2022&lt;/a&gt;). At the same time, &lt;strong&gt;over 230 million Indians live below the poverty line&lt;/strong&gt;—that’s the paradox of our income pyramid.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-whats-next&#34;&gt;🛠️ What’s Next?&lt;/h2&gt;
+&lt;p&gt;Coming soon:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How someone earning ₹2-5 lakh can realistically climb to ₹5-15 lakh.&lt;/li&gt;
+&lt;li&gt;The financial traps to avoid (EMI overload, lifestyle inflation).&lt;/li&gt;
+&lt;li&gt;Game-changing moves like upskilling, smart investing, entrepreneurship, and relocating.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;If you found this helpful, share it and let’s demystify money in India, one step at a time.&lt;/em&gt;&lt;/p&gt;
+</description>
       <author></author>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <pubDate>Tue, 19 Aug 2025 00:39:20 +0530</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <pubDate>Tue, 19 Aug 2025 20:00:00 +0530</pubDate>
     </item>
     
   </channel>
