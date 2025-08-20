@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06d16a0f-2650-4e1b-908a-50a29d2a0b03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/second/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/second/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/finance-in-india/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/finance-in-india/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/finance-in-india/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/finance-in-india/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/income-distribution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/income-distribution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/income-distribution/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/income-distribution/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/income-pyramid-india/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/income-pyramid-india/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/income-pyramid-india/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/income-pyramid-india/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/increase-income-india/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/increase-income-india/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/increase-income-india/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/increase-income-india/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/middle-class-india/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/middle-class-india/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/middle-class-india/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/middle-class-india/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/personal-finance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/personal-finance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/personal-finance/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/personal-finance/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/salary-statistics-india/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/salary-statistics-india/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/salary-statistics-india/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/salary-statistics-india/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/urban-vs-rural-income/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/urban-vs-rural-income/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/urban-vs-rural-income/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/urban-vs-rural-income/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/wealth-management/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/wealth-management/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/wealth-management/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/wealth-management/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
