@@ -3,19 +3,19 @@
     
     <title>Sanath Ramesh</title>
     <description>My personal blog powered by Hugo &#43; Maverick</description>
-    <link>http://localhost:1313/</link>
+    <link>https://www.financewithsanath.com/</link>
     
     <language>en</language>
     <copyright>Copyright 2025, Calvin Tran</copyright>
     <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="https://www.financewithsanath.com//atom.xml" rel="self" type="application/atom+xml"/>
     
     
     <item>
       <title>India’s Income Pyramid: What the Data Says</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>https://www.financewithsanath.com/posts/second/</link>
       <description>&lt;p&gt;&lt;strong&gt;Alright&lt;/strong&gt;, let’s start with a question: have you ever really stopped to think about where &lt;strong&gt;you&lt;/strong&gt; fit in India’s huge income pyramid? Like, are you chilling at the bottom, grinding in the middle, or balling at the top (or dreaming about it)? Most of us don’t think of it until rent or bills start piling up, right?&lt;/p&gt;
 &lt;p&gt;Well, India isn’t just one country when it comes to income. It’s like a giant pyramid stacked with different groups—some barely scraping by, others living dreams most can only imagine. This post is to chat about those groups, how big they are, where they live, what they do, and most importantly: how you can climb.&lt;/p&gt;
 &lt;hr&gt;
@@ -24,7 +24,7 @@
 &lt;p&gt;Think of it like this: The top 10% are making over half of all the income in the country. Meanwhile, the bottom half? They collectively earn only 13%. Wild, huh?&lt;/p&gt;
 &lt;p&gt;Here is an infographic on the income inequality&lt;/p&gt;
 &lt;p&gt;&lt;img
-  src=&#34;http://localhost:1313/images/india_income_pyramid_horizontal.png&#34;
+  src=&#34;https://www.financewithsanath.com/images/india_income_pyramid_horizontal.png&#34;
   alt=&#34;India Income Pyramid chart with percentages – personal finance blog&#34;
   loading=&#34;lazy&#34;
   decoding=&#34;async&#34;
@@ -136,7 +136,7 @@
 &lt;p&gt;&lt;em&gt;If you found this helpful, share it and let’s demystify money in India, one step at a time.&lt;/em&gt;&lt;/p&gt;
 </description>
       <author></author>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>https://www.financewithsanath.com/posts/second/</guid>
       <pubDate>Tue, 19 Aug 2025 20:00:00 +0530</pubDate>
     </item>
     
